@@ -29,4 +29,4 @@ Painel de Revisão Web baseado na Aula 5 para revisar HTML, CSS e Bootstrap.
 O código checa a variável de boletos. Se tiver 4 ou mais pagos, exibe uma mensagem positiva no console. Se tiver menos, avisa para pagar.
 
 ## Maior Dificuldade
-Criar o html do tipo do bootstrap, com nomenclaturas e classes diferentes e mais confusas do que as anteriore.
+Criar o html do tipo do bootstrap, com nomenclaturas e classes diferentes e mais confusas do que as anteriores.
